@@ -171,8 +171,6 @@ git push
 - IACC (2026). *Trabajo colaborativo en ciencias de datos. Semana 7.*
 - IACC (2026). *Principios y tipos de visualización de datos. Semana 4.*
 - Ortega Candel, J. M. (2022). *Big data, machine learning y data science en Python*. https://elibro.net/es/ereader/iacc/230290
-- Anthropic. (2026). Claude (versión Sonnet 4.6) [Modelo de lenguaje de gran escala]. https://claude.ai
-"Para el desarrollo del presente trabajo se utilizó el asistente de inteligencia artificial Claude (Anthropic, 2026) como herramienta de apoyo en la revisión de código, sugerencias de buenas prácticas y validación de la estructura del proyecto."
 ---
 
 *Autor: Juan Bobadilla | CIEDT1301 | IACC 2026*
